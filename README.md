@@ -1,6 +1,7 @@
 # Проект 0. Угадай число
 
-:notebook_with_decorative_cover: [Папка проекта](https://github.com/Dolmachi/game_0.1/tree/main/project_0)
+- :notebook_with_decorative_cover: [Папка проекта](https://github.com/Dolmachi/game_0.1/tree/main/project_0)
+- :computer: [Ноутбук проекта](https://colab.research.google.com/drive/1GwI7gkPAOuFM0C3SaqFS9PiIE3XszRbc)
 
 ## Оглавление
 1. [Описание проекта](#Описание-проекта)
